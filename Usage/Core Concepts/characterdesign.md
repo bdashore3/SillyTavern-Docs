@@ -14,6 +14,7 @@ Methods of character formatting is a complicated topic beyond the scope of this 
 
 Recommended guides that were tested with or rely on SillyTavern's features:
 
+* Pygmalion Wiki's guide: https://wikia.schneedc.com/bot-creation/intro
 * AliCat's Ali:Chat guide: https://rentry.co/alichat
 * kingbri's minimalistic guide: https://rentry.co/kingbri-chara-guide
 * Kuma's W++ guide: https://rentry.co/WPP_For_Dummies
